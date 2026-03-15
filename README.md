@@ -111,3 +111,4 @@ Returns:
 ---
 
 ## 7. Deployed Smart Contract Link
+https://lab.stellar.org/r/testnet/contract/CC4UWFUMFVEDIOZFE4SWPMWXAK7UJFS6GZMY56BCNVMKU7EM5BOVHZPF
