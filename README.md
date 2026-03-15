@@ -14,7 +14,7 @@ Once issued, the certificate becomes permanently recorded on the blockchain and 
 SCREENSHOT LINK: ![Alt Text](https://github.com/klewints/certificateofachievement/blob/main/Screenshot%202026-03-15%20130324.png)
 
 
-## 2. What it Doe
+## 2. What it Does
 
 The smart contract enables the following workflow:
 
