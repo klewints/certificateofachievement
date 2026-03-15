@@ -37,7 +37,7 @@ The contract retrieves the certificate details stored on-chain and confirms whet
 
 ### Tamper Detection
 If someone alters the certificate document, its hash will not match the hash stored on-chain, allowing easy detection of tampering.
- SCREENSHOT LINK : https://github.com/klewints/certificateofachievement/blob/main/Screenshot%202026-03-15%20133032.png
+ SCREENSHOT LINK : ![Alt Text](https://github.com/klewints/certificateofachievement/blob/main/Screenshot%202026-03-15%20133032.png)
 ---
 
 ## 3. Features
