@@ -11,10 +11,10 @@ Instead of storing the full certificate document on-chain, the system stores a *
 Once issued, the certificate becomes permanently recorded on the blockchain and can be verified by employers, institutions, or third parties without relying on the issuing authority.
 
 ---
-SCREENSHOT LINK: https://github.com/klewints/certificateofachievement/blob/main/Screenshot%202026-03-15%20130324.png
+SCREENSHOT LINK: ![Alt Text](https://github.com/klewints/certificateofachievement/blob/main/Screenshot%202026-03-15%20130324.png)
 
 
-## 2. What it Does
+## 2. What it Doe
 
 The smart contract enables the following workflow:
 
