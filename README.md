@@ -12,6 +12,8 @@ Once issued, the certificate becomes permanently recorded on the blockchain and 
 
 ---
 Working Proof: https://github.com/klewints/certificateofachievement/blob/main/Screenshot%202026-03-15%20130324.png
+
+
 ## 2. What it Does
 
 The smart contract enables the following workflow:
@@ -110,5 +112,7 @@ Returns:
 
 ---
 
-## 7. Deployed Smart Contract Link
+## 7. Deployed Smart Contract Link (DEPLOYEMENT LINK)
 https://lab.stellar.org/r/testnet/contract/CC4UWFUMFVEDIOZFE4SWPMWXAK7UJFS6GZMY56BCNVMKU7EM5BOVHZPF
+
+ https://stellar.expert/explorer/testnet/tx/d8b0e9010560b1f99f57f4dbf884070f6ba360b5d36487cbbab2d10c512211a7 
