@@ -9,6 +9,8 @@ The system allows institutions, organizations, and training providers to issue *
 Instead of storing the full certificate document on-chain, the system stores a **cryptographic hash** representing the certificate data. This approach preserves privacy while ensuring that certificates cannot be altered or forged.
 
 Once issued, the certificate becomes permanently recorded on the blockchain and can be verified by employers, institutions, or third parties without relying on the issuing authority.
+
+
 CONTRACT ADDRESS : CC4UWFUMFVEDIOZFE4SWPMWXAK7UJFS6GZMY56BCNVMKU7EM5BOVHZPF
 ![Alt Text](https://github.com/klewints/certificateofachievement/blob/main/Screenshot%202026-03-16%20142706.png)
 ---
